@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "date": "2026-10-29",
+    "sport": "Unverified",
+    "event": "r/sportsbook POTD — October 29",
+    "selection": "Awaiting verified highest-upvoted pick",
+    "odds_american": null,
+    "upvotes": null,
+    "summary": "Today's highest-upvoted eligible pick could not be confirmed from publicly indexed Reddit results. This is a tracking placeholder, not a wager.",
+    "result": "unverified",
+    "reddit_url": "https://www.reddit.com/r/sportsbook/",
+    "result_source_url": null
+  }
+]
