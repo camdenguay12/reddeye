@@ -10,5 +10,22 @@
     "result": "unverified",
     "reddit_url": "https://www.reddit.com/r/sportsbook/",
     "result_source_url": null
+  },
+  {
+    "date": "2026-10-30",
+    "sport": "Soccer — Bundesliga",
+    "event": "SV Elversberg vs 1. FSV Mainz 05",
+    "selection": "Both teams to score (Yes) + Over 2.5 total goals",
+    "odds_american": "≈-149 (converted from 1.67 decimal)",
+    "odds_decimal": 1.67,
+    "upvotes": null,
+    "summary": "Provisional Top-sorted candidate; actual upvote total and definitive ranking could not be verified. The poster expects an open, high-scoring match because Elversberg's home fixtures have produced goals for both teams, while Mainz has been scoring and conceding heavily in recent league games.",
+    "result": "pending",
+    "reddit_url": "https://www.reddit.com/r/sportsbook/comments/1xiz089/comment/19ruqsg84830k/",
+    "result_source_url": null,
+    "author": "san_solares",
+    "ranking_verified": false,
+    "ranking_basis": "First eligible top-level pick shown under Top (Default), after moderator bot notice; scores not exposed by indexed page",
+    "observed_at": "2026-10-30T07:03:38-04:00"
   }
 ]
