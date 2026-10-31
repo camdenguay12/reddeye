@@ -20,12 +20,31 @@
     "odds_decimal": 1.67,
     "upvotes": null,
     "summary": "Provisional Top-sorted candidate; actual upvote total and definitive ranking could not be verified. The poster expects an open, high-scoring match because Elversberg's home fixtures have produced goals for both teams, while Mainz has been scoring and conceding heavily in recent league games.",
-    "result": "pending",
+    "result": "win",
     "reddit_url": "https://www.reddit.com/r/sportsbook/comments/1xiz089/comment/19ruqsg84830k/",
-    "result_source_url": null,
+    "result_source_url": "https://www.sofascore.com/news/elversberg-4-1-mainz-05-early-set-piece-firm-control-and-a-late-gloss",
     "author": "san_solares",
     "ranking_verified": false,
     "ranking_basis": "First eligible top-level pick shown under Top (Default), after moderator bot notice; scores not exposed by indexed page",
-    "observed_at": "2026-10-30T07:03:38-04:00"
+    "observed_at": "2026-10-30T07:03:38-04:00",
+    "final_score": "SV Elversberg 4–1 Mainz 05",
+    "result_verified_at": "2026-10-31"
+  },
+  {
+    "date": "2026-10-31",
+    "sport": "Soccer — English Premier League",
+    "event": "Manchester City vs Brighton",
+    "selection": "Both teams to score (Yes) + Brighton over 1.5 cards",
+    "odds_american": "+105 (converted from 2.05 decimal)",
+    "odds_decimal": 2.05,
+    "upvotes": null,
+    "summary": "Provisional Top-sorted candidate, not a verified upvote leader. The poster cites recent goals scored and conceded by both clubs, a streak of head-to-head meetings where both scored, and Brighton's frequent two-or-more-card matches.",
+    "result": "pending",
+    "reddit_url": "https://www.reddit.com/r/sportsbook/comments/1xju3fd/comment/19rwhdbv2v5kz/",
+    "result_source_url": null,
+    "author": "defiant_degen",
+    "ranking_verified": false,
+    "ranking_basis": "First eligible top-level pick displayed under Top (Default) on publicly indexed page; individual comment scores unavailable",
+    "observed_at": "2026-10-31T06:58:00-04:00"
   }
 ]
