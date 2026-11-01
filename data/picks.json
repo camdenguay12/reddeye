@@ -39,12 +39,32 @@
     "odds_decimal": 2.05,
     "upvotes": null,
     "summary": "Provisional Top-sorted candidate, not a verified upvote leader. The poster cites recent goals scored and conceded by both clubs, a streak of head-to-head meetings where both scored, and Brighton's frequent two-or-more-card matches.",
-    "result": "pending",
+    "result": "loss",
     "reddit_url": "https://www.reddit.com/r/sportsbook/comments/1xju3fd/comment/19rwhdbv2v5kz/",
-    "result_source_url": null,
+    "result_source_url": "https://www.sportytrader.com/en/results-live/manchester-city-brighton-8558900/",
     "author": "defiant_degen",
     "ranking_verified": false,
     "ranking_basis": "First eligible top-level pick displayed under Top (Default) on publicly indexed page; individual comment scores unavailable",
-    "observed_at": "2026-10-31T06:58:00-04:00"
+    "observed_at": "2026-10-31T06:58:00-04:00",
+    "final_score": "Manchester City 0–1 Brighton & Hove Albion",
+    "result_verified_at": "2026-11-01",
+    "result_note": "Brighton received 3 yellow cards, but both teams to score failed because Manchester City scored 0. Both parlay legs were required."
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "Soccer — Italy (as described by poster)",
+    "event": "Arezzo vs Ascoli; Hellas Verona vs Carrarese",
+    "selection": "Two-leg double: Arezzo under 1.5 team goals + Hellas Verona under 2.5 team goals",
+    "odds_american": "≈-104 (converted from 1.96 decimal)",
+    "odds_decimal": 1.96,
+    "upvotes": null,
+    "summary": "Provisional Top-sorted candidate, not a verified highest-upvote pick. The poster argues Arezzo has scored at most once in three of four recent home games and Ascoli has limited its opponents to one or fewer in four away games; Verona has stayed below three goals in four of five recent home games, and Carrarese has conceded fewer than three in five away games. These are the poster's claims, not independently verified statistics.",
+    "result": "pending",
+    "reddit_url": "https://www.reddit.com/r/sportsbook/comments/1xko7p7/comment/19ryadp4bf6tg/",
+    "result_source_url": null,
+    "author": "DGFootballNotes",
+    "ranking_verified": false,
+    "ranking_basis": "First eligible top-level pick shown under Top (Default) in publicly indexed Reddit thread; no individual vote counts exposed, so upvote leadership unconfirmed",
+    "observed_at": "2026-11-01T07:03:49-05:00"
   }
 ]
