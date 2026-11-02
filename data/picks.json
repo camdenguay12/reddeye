@@ -59,12 +59,30 @@
     "odds_decimal": 1.96,
     "upvotes": null,
     "summary": "Provisional Top-sorted candidate, not a verified highest-upvote pick. The poster argues Arezzo has scored at most once in three of four recent home games and Ascoli has limited its opponents to one or fewer in four away games; Verona has stayed below three goals in four of five recent home games, and Carrarese has conceded fewer than three in five away games. These are the poster's claims, not independently verified statistics.",
-    "result": "pending",
+    "result": "loss",
     "reddit_url": "https://www.reddit.com/r/sportsbook/comments/1xko7p7/comment/19ryadp4bf6tg/",
-    "result_source_url": null,
+    "result_source_url": "https://sport.sky.it/calcio/serie-b/partite/2026/giornata-10/hellas-verona-carrarese",
     "author": "DGFootballNotes",
     "ranking_verified": false,
     "ranking_basis": "First eligible top-level pick shown under Top (Default) in publicly indexed Reddit thread; no individual vote counts exposed, so upvote leadership unconfirmed",
-    "observed_at": "2026-11-01T07:03:49-05:00"
+    "observed_at": "2026-11-01T07:03:49-05:00",
+    "final_score": "Arezzo 0–0 Ascoli; Hellas Verona 3–0 Carrarese",
+    "result_verified_at": "2026-11-02",
+    "result_note": "First leg won: Arezzo scored 0, under 1.5. Second leg lost: Hellas Verona scored 3, exceeding under 2.5. Two-leg double loses."
+  },
+  {
+    "date": "2026-11-02",
+    "sport": "Unverified",
+    "event": "r/sportsbook POTD — November 2",
+    "selection": "No eligible highest-upvoted pick verified at 07:03 ET",
+    "odds_american": null,
+    "upvotes": null,
+    "summary": "The November 2 POTD thread or a reliably ranked top-level pick could not be located in publicly indexed results at the morning check. No wager, odds, vote total, or reasoning has been asserted. This is a verification placeholder only.",
+    "result": "unverified",
+    "reddit_url": null,
+    "result_source_url": null,
+    "ranking_verified": false,
+    "ranking_basis": "No November 2 POTD thread or top-level comment independently verified from publicly indexed pages",
+    "observed_at": "2026-11-02T07:03:12-05:00"
   }
 ]
