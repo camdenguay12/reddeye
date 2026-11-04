@@ -98,12 +98,29 @@
     "odds_decimal": 1.63,
     "upvotes": null,
     "summary": "Provisional Top-sorted candidate, not a verified upvote leader. The poster cites Manchester United's poor recent form and defensive struggles, contrasting Roma's unbeaten league start and stronger scoring form. These are the poster's claims.",
-    "result": "pending",
+    "result": "loss",
     "reddit_url": "https://www.reddit.com/r/sportsbook/comments/1xmhsfg/pick_of_the_day_11326_tuesday/",
-    "result_source_url": null,
+    "result_source_url": "https://www.reuters.com/sports/soccer/psg-hit-villarreal-six-bayern-win-man-united-fight-back-2026-11-03/",
     "author": "san_solares",
     "ranking_verified": false,
     "ranking_basis": "First eligible top-level pick shown under Top (Default) after moderator notice; individual comment scores not exposed",
-    "observed_at": "2026-11-03T07:03:56-05:00"
+    "observed_at": "2026-11-03T07:03:56-05:00",
+    "final_score": "Manchester United 3–2 Roma",
+    "result_verified_at": "2026-11-04",
+    "result_note": "Roma or draw lost because Manchester United won 3–2."
+  },
+  {
+    "date": "2026-11-04",
+    "sport": "Unverified",
+    "event": "r/sportsbook POTD — November 4",
+    "selection": "No verifiable highest-upvoted eligible pick",
+    "odds_american": null,
+    "upvotes": null,
+    "summary": "Public indexed searches at approximately 7:02 AM Eastern did not establish today's POTD thread or a highest-upvoted eligible top-level comment. No wager inferred.",
+    "result": "unverified",
+    "reddit_url": "https://www.reddit.com/r/sportsbook/",
+    "result_source_url": null,
+    "ranking_verified": false,
+    "observed_at": "2026-11-04T07:02:07-05:00"
   }
 ]
