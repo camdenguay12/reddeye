@@ -136,5 +136,19 @@
     "result_source_url": null,
     "ranking_verified": false,
     "observed_at": "2026-11-06T06:56:53-05:00"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "Unverified",
+    "event": "r/sportsbook Pick of the Day — November 7, 2026",
+    "selection": "Highest-upvoted eligible top-level pick not verifiable",
+    "odds_american": null,
+    "upvotes": null,
+    "summary": "The November 7 thread was accessible and showed several eligible top-level selections under Top (Default), but individual comment scores were not displayed. The first visible candidate was defiant_degen's Arsenal win and both teams to score No at 1.80 decimal (approximately -125 American), based on Arsenal's defense and Hull's weak chance creation; its ranking cannot be confirmed, so no official pick is selected.",
+    "result": "unverified",
+    "reddit_url": "https://www.reddit.com/r/sportsbook/comments/1xps9m3/pick_of_the_day_11726_saturday/",
+    "result_source_url": null,
+    "ranking_verified": false,
+    "observed_at": "2026-11-07T06:55:00-05:00"
   }
 ]
