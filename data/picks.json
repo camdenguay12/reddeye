@@ -150,5 +150,19 @@
     "result_source_url": null,
     "ranking_verified": false,
     "observed_at": "2026-11-07T06:55:00-05:00"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "Unverified",
+    "event": "r/sportsbook Pick of the Day — November 8, 2026",
+    "selection": "Highest-upvoted eligible top-level pick not verifiable",
+    "odds_american": null,
+    "upvotes": null,
+    "summary": "Publicly indexed Reddit thread exists and shows Top (Default) ordering, but individual comment upvote totals are unavailable. First clearly eligible visible candidate: X_Underscore_X's two-leg Japanese soccer draw-no-bet parlay, Vissel Kobe DNB plus Sapporo DNB, at 2.83 decimal (about +183 American). The author cites Sapporo's five-game winning streak and Kobe's home attack against Urawa's weakened defense. This candidate is NOT a verified upvote leader and is NOT selected as the official pick.",
+    "result": "unverified",
+    "reddit_url": "https://www.reddit.com/r/sportsbook/comments/1xqkshs/pick_of_the_day_11826_sunday/",
+    "result_source_url": null,
+    "ranking_verified": false,
+    "observed_at": "2026-11-08T06:58:24-05:00"
   }
 ]
