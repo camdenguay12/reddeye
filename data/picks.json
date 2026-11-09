@@ -164,5 +164,19 @@
     "result_source_url": null,
     "ranking_verified": false,
     "observed_at": "2026-11-08T06:58:24-05:00"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "Unverified",
+    "event": "r/sportsbook Pick of the Day — November 9, 2026",
+    "selection": "Highest-upvoted eligible top-level pick not verifiable",
+    "odds_american": null,
+    "upvotes": null,
+    "summary": "Publicly indexed searches on November 9 around 7 AM Eastern did not locate a verifiable November 9 POTD thread or eligible top-level comment with a confirmed vote ranking. No wager selected.",
+    "result": "unverified",
+    "reddit_url": "https://www.reddit.com/r/sportsbook/",
+    "result_source_url": null,
+    "ranking_verified": false,
+    "observed_at": "2026-11-09T06:58:00-05:00"
   }
 ]
